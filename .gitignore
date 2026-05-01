@@ -1,0 +1,9 @@
+node_modules
+ecommerce-app/node_modules
+ecommerce-backend/node_modules
+.expo
+.env
+android
+ios
+dist
+build

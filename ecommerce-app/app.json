@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "ecommerce-app",
+    "slug": "ecommerce-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": ["**/*"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
